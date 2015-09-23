@@ -1,5 +1,6 @@
-Project started 2013-01-03
 Zea Mays SNP Calling Project
-more changes made
-Samples expected from sequencing core 2013-01-10
-\n\nMaize refrence genome version: refgen3
+Project started 2013-01-03
+Samples expected from sequencing core on 2013-01-10
+
+
+We donloaded refgen3 on 2014-01-04
